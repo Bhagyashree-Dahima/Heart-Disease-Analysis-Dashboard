@@ -1,4 +1,3 @@
-# Heart-Disease-Analysis-Dashboard
 # ❤️ Heart Disease Analysis Dashboard (Power BI)
 
 A data-driven Power BI project designed to analyze and visualize patient survival trends, heart-related health factors, and the impact of clinical parameters on heart disease outcomes.
@@ -165,7 +164,7 @@ To analyze patient data and:
 ---
 
 ## 👩‍💻 Author
-**[Bhagyashree Dahima]**   
+**Bhagyashree Dahima**   
 💼 [LinkedIn Profile ]  
 📍 Data Analyst | Power BI Developer | Healthcare Analytics Enthusiast  
 
